@@ -96,19 +96,3 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 ---
-
-🏆 Credits & Contributors
-> OBED-MD Owner 
-- [JawadTechX](https://github.com/XdTechPro)
-- Creater and Owner Of JAWAD-MD
-> JAWAD-MD Helpers 
-- [ROMEKTRICKS](https://github.com/ROMEKTRICKS)
-- For helping in bot plugin files.
-  
-
-
-
-🔒 Final Note
-
-If you face any issues, report them on GitHub or in the WhatsApp community.
-Happy coding! 🚀 
