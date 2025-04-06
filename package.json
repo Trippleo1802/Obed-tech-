@@ -1,16 +1,16 @@
 {
-  "name": "JAWAD-MD",
+  "name": "OBED-TECH",
   "version": "10.8.1",
-  "description": "JAWAD-XMD latest multi device whatsapp bot",
+  "description": "OBED MD latest multi device whatsapp bot",
   "main": "index.js",
   "type": "module",
   "scripts": {
-    "start": "pm2 start index.js --deep-monitoring --attach --name JAWAD-XMD",
-    "stop": "pm2 stop JAWAD-XMD",
-    "restart": "pm2 restart JAWAD-XMD"
+    "start": "pm2 start index.js --deep-monitoring --attach --name OBED TECH",
+    "stop": "pm2 stop OBED TECH",
+    "restart": "pm2 restart OBED-VMD"
   },
-  "keywords": ["jawad-md", "whatsapp-bot", "whatsapp md bot"],
-  "author": "JawadTechX",
+  "keywords": ["obed-md", "whatsapp-bot", "whatsapp md bot"],
+  "author": "ObedTechX",
   "license": "ISC",
   "dependencies": {
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
