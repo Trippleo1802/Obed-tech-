@@ -1,6 +1,6 @@
-name: jawad-md
+name: obed-md
 services:
-  - name: jawad-md-service
+  - name: obed-md-service
     type: web
     ports:
       - 5000
