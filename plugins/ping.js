@@ -23,7 +23,7 @@ const ping = async (m, Matrix) => {
     const end = new Date().getTime();
     const responseTime = (end - start) / 1000;
 
-    const text = `*JAWAD-MD SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
+    const text = `*OBED-MD SPEED: ${responseTime.toFixed(2)}ms ${reactionEmoji}*`;
 
     await Matrix.sendMessage(m.from, {
       text,
