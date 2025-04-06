@@ -12,7 +12,7 @@
 ---
 
 <p align="center">
-  <a href="https://github.com/Trippleo1802"><img title="Developer" src="https://img.shields.io/badge/Author-Obef%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
+  <a href="https://github.com/Trippleo1802"><img title="Developer" src="https://img.shields.io/badge/Author-Obed%20TechX-FF7604.svg?style=big-square&logo=github" /></a>
 </p>
 
 <div align="center">
