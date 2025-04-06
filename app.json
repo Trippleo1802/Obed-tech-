@@ -1,9 +1,9 @@
 {
-  "name": "JAWAD-MD",
-  "description": "I am JAWAD-MD WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
+  "name": "OBED TECH2",
+  "description": "I am OBED-TECH WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
   "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
   "keywords": ["JAWAD-MD"],
-  "repository": "https://github.com/XdTechPro/JAWAD-MD",
+  "repository": "https://github.com/Trippleo1802/Obed-tech-",
   "stack": "container",
   "env": { 
       "SESSION_ID": {
@@ -19,7 +19,7 @@
     "BOT_NAME": {
       "description": "change bot name what you want!",
       "required": false,
-      "value": "JAWAD-MD"
+      "value": "OBED TECH"
     },
     "MENU_IMAGE": {
       "description": "change menu image if want otherwise use default",
@@ -60,12 +60,12 @@
     "OWNER_NAME": {
       "description": "set your status reply message",
       "required": false,
-      "value": "JAWAD-MD"
+      "value": "OBED TECH"
     },
     "OWNER_NUMBER": {
       "description": "set your status reply message",
       "required": false,
-      "value": "92310344XXXX"
+      "value": "254701082940"
     },
     "AUTO_READ": {
       "description": "make it true if you want bot to read message",
