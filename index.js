@@ -89,20 +89,20 @@ async function start() {
     try {
         const { state, saveCreds } = await useMultiFileAuthState(sessionDir);
         const { version, isLatest } = await fetchLatestBaileysVersion();
-        console.log(`🤖 JAWAD-MD using WA v${version.join('.')}, isLatest: ${isLatest}`);
+        console.log(`🤖 OBED-MD using WA v${version.join('.')}, isLatest: ${isLatest}`);
         
         const Matrix = makeWASocket({
             version,
             logger: pino({ level: 'silent' }),
             printQRInTerminal: useQR,
-            browser: ["JAWAD-MD", "safari", "3.3"],
+            browser: ["OBED-MD", "safari", "3.3"],
             auth: state,
             getMessage: async (key) => {
                 if (store) {
                     const msg = await store.loadMessage(key.remoteJid, key.id);
                     return msg.message || undefined;
                 }
-                return { conversation: "JAWAD-MD whatsapp user bot" };
+                return { conversation: "OBED-MD whatsapp user bot" };
             }
         });
 
@@ -116,22 +116,22 @@ Matrix.ev.on('connection.update', (update) => {
         if (initialConnection) {
             console.log(chalk.green("Connected Successfully KHAN-MD 🤍"));
             Matrix.sendMessage(Matrix.user.id, { 
-                image: { url: "https://files.catbox.moe/pf270b.jpg" }, 
-                caption: `*Hello there JAWAD-MD User! 👋🏻* 
+                image: { url: "https://files.catbox.moe/f70978.jpg" }, 
+                caption: `*Hello there OBED-MD User! 👋🏻* 
 
-> Simple, Straightforward, But Loaded With Features 🎊. Meet JAWAD-MD WhatsApp Bot.
+> Simple, Straightforward, But Loaded With Features 🎊. Meet OBED-MD WhatsApp Bot.
 
-*Thanks for using JAWAD-MD 🚩* 
+*Thanks for using OBED-MD 🚩* 
 
 > Join WhatsApp Channel: ⤵️  
-https://whatsapp.com/channel/0029Vb5n6oH0QeaoT1Shcn35
+https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I
 
 - *YOUR PREFIX:* = ${prefix}
 
 Don't forget to give a star to the repo ⬇️  
-https://github.com/XdTechPro/JAWAD-MD
+https://github.com/Trippleo1802/Obed-tech-
 
-> © Powered BY JawadTechX 🖤`
+> © Powered BY ObedTechX 🤍`
             });
             initialConnection = false;
         } else {
