@@ -24,7 +24,7 @@ const instagram = async (m, Matrix) => {
     await Matrix.sendMessage(m.from, {
       video: { url: data.downloadUrl },
       mimetype: "video/mp4",
-      caption: "📥 *Powered By JawadTechX ✅*",
+      caption: "📥 *Powered By ObedTechX ✅*",
       contextInfo: {
         mentionedJid: [m.sender],
         forwardingScore: 999,
