@@ -1,9 +1,9 @@
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=JAWAD-MD-V3.0" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=100&pause=1000&color=FF0000&center=true&width=1000&height=200&lines=OBED-MD-V5.0" alt="Typing SVG" /></a>
   </p>
   
 ---   
 
-> **`Updated To` The Version 3.0**
+> **`Updated To` The Version 5.0**
 
 ---
 
@@ -17,15 +17,15 @@
 
 <div align="center">
   
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-FF00F8?style=big-square&logo=whatsapp)](https://whatsapp.com/channel/0029Vb46YKVGehEEbFN3jH3I)
 </div>
 
  <p align="center"><img src="https://profile-counter.glitch.me/{JAWAD-MD}/count.svg" alt="XdTechPro :: Visitor's Count" old_src="https://profile-counter.glitch.me/{XdTechPro}/count.svg" /></p>
 
 
 <p align="center">
-<a href="https://github.com/XdTechPro/JAWAD-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
-  <img src="https://komarev.com/ghpvc/?username=JAWAD-MD&label=VIEWS&style=square&color=blue" />
+<a href="https://github.com/XdTechPro/OBED-MD"><img title="PUBLIC-BOT" src="https://img.shields.io/static/v1?label=Language&message=English&style=square&color=darkpink"></a> &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=OBED-MD&label=VIEWS&style=square&color=blue" />
 </p>
 </p> 
 
@@ -58,7 +58,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 
 <p align="left">  
-<a href='https://dashboard.heroku.com/new?template=https://github.com/XdTechPro/JAWAD-MD/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
+<a href='https://dashboard.heroku.com/new?templatehte=https://github.com/Trippleo1802/Obed-tech-/tree/main' target="_blank"><img alt='Deploy on Heroku' src='https://img.shields.io/badge/Deploy%20on-Heroku-FF004D?style=for-the-badge&logo=heroku&logoColor=white'/></a>  
 </p>
 
 > Deploy on TaikDrove
@@ -98,7 +98,7 @@ Start by forking this repository to your own GitHub account. Click the button be
 ---
 
 🏆 Credits & Contributors
-> JAWAD-MD Owner 
+> OBED-MD Owner 
 - [JawadTechX](https://github.com/XdTechPro)
 - Creater and Owner Of JAWAD-MD
 > JAWAD-MD Helpers 
