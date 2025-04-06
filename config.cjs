@@ -24,7 +24,7 @@ const config = {
   BOT_NAME: process.env.BOT_NAME || "OBED-MD",
   MENU_IMAGE: process.env.MENU_IMAGE || "https://files.catbox.moe/f70978.jpg",
   DESCRIPTION: process.env.DESCRIPTION || "© ᴘᴏᴡᴇʀᴇᴅ ʙʏ Jᴀᴡᴀᴅ TᴇᴄʜX",
-  OWNER_NAME: process.env.OWNER_NAME || "JawadTechX",
+  OWNER_NAME: process.env.OWNER_NAME || "ObedTechX",
   OWNER_NUMBER: process.env.OWNER_NUMBER || "923427582273",
   GEMINI_KEY: process.env.GEMINI_KEY || "AIzaSyCUPaxfIdZawsKZKqCqJcC-GWiQPCXKTDc",
   WELCOME: process.env.WELCOME !== undefined ? process.env.WELCOME === 'true' : false, 
