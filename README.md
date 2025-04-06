@@ -38,7 +38,7 @@
 
 Start by forking this repository to your own GitHub account. Click the button below to fork:
 
-  <a href="https://github.com/Trippleo1802/Obed-tech-/forks"><img title="OBED-MD" src="https://img.shields.io/badge/FORK-KHAN MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
+  <a href="https://github.com/Trippleo1802/Obed-tech-/forks"><img title="OBED-MD" src="https://img.shields.io/badge/FORK-OBED MD-h?color=green&style=for-the-badge&logo=stackshare"></a>
 
 > Get Pair Code (Session ID)
 
