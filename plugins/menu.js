@@ -344,7 +344,7 @@ ${menuResponse}
           isForwarded: true,
           forwardedNewsletterMessageInfo: {
             newsletterJid: '120363398040175935@newsletter',
-            newsletterName: "JawadTechX",
+            newsletterName: "ObedTechX",
             serverMessageId: 143
           }
         }
