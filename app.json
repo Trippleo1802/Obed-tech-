@@ -1,8 +1,8 @@
 {
   "name": "OBED TECH2",
   "description": "I am OBED-TECH WhatsApp MultiDevice Bot built in NodeJs to enhance the experience.",
-  "logo": "https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/KHAN.png",
-  "keywords": ["JAWAD-MD"],
+  "logo": "https://files.catbox.moe/f70978.jpg",
+  "keywords": ["OBED TECH"],
   "repository": "https://github.com/Trippleo1802/Obed-tech-",
   "stack": "container",
   "env": { 
@@ -24,7 +24,7 @@
     "MENU_IMAGE": {
       "description": "change menu image if want otherwise use default",
       "required": false,
-      "value": "https://files.catbox.moe/7l1tt5.jpg"
+      "value": "https://files.catbox.moe/f70978.jpg"
     },
     "DESCRIPTION": {
       "description": "add caption for menu and etc",
@@ -55,7 +55,7 @@
     "STATUS_READ_MSG": {
       "description": "set your status reply message",
       "required": false,
-      "value": "*Status Seen By JAWAD-MD 👻🤍*"
+      "value": "*Status Seen By OBED-MD 👻💚*"
     },
     "OWNER_NAME": {
       "description": "set your status reply message",
