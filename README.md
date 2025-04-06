@@ -7,7 +7,7 @@
 
 ---
 
-<a><img src='https://raw.githubusercontent.com/XdTechPro/KHAN-DATA/refs/heads/main/logo/JAWAD.jpg'/></a>
+<a><img src='https://files.catbox.moe/f70978.jpg'/></a>
 
 ---
 
