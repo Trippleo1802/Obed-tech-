@@ -75,7 +75,15 @@ Start by forking this repository to your own GitHub account. Click the button be
 
 <p align="left">  
 <a href='https://app.koyeb.com/services/deploy?type=git&repository=XdTechPro/JAWAD-MD&ports=3000' target="_blank"><img alt='Deploy on Koyeb' src='https://img.shields.io/badge/Deploy%20on-Koyeb-FF009D?style=for-the-badge&logo=koyeb&logoColor=white'/></a>  
-</p>
+</p> 
+
+🦵IF YOU WHAT TO DOWNLOAD OBED TECH ZIP 
+
+<h3 align="left">2️⃣ Download the ZIP File</h3>
+<p align="left">
+  <a href=https://github.com/Trippleo1802/Obed-tech-/archive/refs/heads/main.zip">
+    <img src="https://img.shields.io/badge/Download%20ZIP-blue?style=for-the-badge&logo=files" alt="Download ZIP" />
+  </a>
 
 > View Workflow Codes
 
