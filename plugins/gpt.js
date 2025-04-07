@@ -117,7 +117,7 @@ const prompt = m.body.slice(prefix.length + cmd.length).trim();
                                     text: answer
                                 }),
                                 footer: proto.Message.InteractiveMessage.Footer.create({
-                                    text: "> © ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴋʜᴀɴ-ᴍᴅ"
+                                    text: "> © Obed TechX"
                                 }),
                                 header: proto.Message.InteractiveMessage.Header.create({
                                     title: "",
