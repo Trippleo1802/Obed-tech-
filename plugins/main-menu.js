@@ -235,7 +235,7 @@ const menu = async (m, Matrix) => {
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363398040175935@newsletter',
-          newsletterName: "JawadTechX",
+          newsletterName: "ObedTechX",
           serverMessageId: 143
         }
       }
@@ -245,7 +245,7 @@ const menu = async (m, Matrix) => {
 
     // Send audio after sending the menu
     await Matrix.sendMessage(m.from, {
-      audio: { url: 'https://github.com/XdTechPro/KHAN-DATA/raw/refs/heads/main/autovoice/menunew.m4a' },
+      audio: { url: 'https://files.catbox.moe/rvfjap.mp3' },
       mimetype: 'audio/mp4',
       ptt: true
     }, { quoted: m });
