@@ -56,7 +56,7 @@ async function downloadSessionData() {
         return false;
     }
 
-    const sessdata = config.SESSION_ID.split("KHAN-MD~")[1];
+    const sessdata = config.SESSION_ID.split("OBED-MD~")[1];
 
     if (!sessdata || !sessdata.includes("#")) {
         console.error('❌ Invalid SESSION_ID format! It must contain both file ID and decryption key.');
@@ -114,7 +114,7 @@ Matrix.ev.on('connection.update', (update) => {
         }
     } else if (connection === 'open') {
         if (initialConnection) {
-            console.log(chalk.green("Connected Successfully KHAN-MD 🤍"));
+            console.log(chalk.green("Connected Successfully OBED-MD 🤍"));
             Matrix.sendMessage(Matrix.user.id, { 
                 image: { url: "https://files.catbox.moe/f70978.jpg" }, 
                 caption: `*Hello there OBED-MD User! 👋🏻* 
